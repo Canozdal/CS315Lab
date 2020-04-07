@@ -17,5 +17,6 @@ public class Main {
         ArrayOrganizer arr = new ArrayOrganizer();
         arr.concatAndSort(list1,list2,list3);
         System.out.println(arr.concatAndSort(list1,list2,list3));
+        System.out.println("Successfully reverted in Git");
     }
 }
